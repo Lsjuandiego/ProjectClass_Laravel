@@ -13,7 +13,8 @@ class Profile extends Model
         'url_facebook',
         'create_at',
         'update_at',
-        'user_id'
+        'user_id',
+        'url_avatar'
     ];
 
     //Indicar que le pertenece a un usuario
